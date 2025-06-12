@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: asmha04b8-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/asmha04b8-nodejs
